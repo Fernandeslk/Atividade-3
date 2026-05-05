@@ -11,7 +11,6 @@ permitindo registrar, cancelar e consultar o status dos quartos.
     ├── Reserva.ts
     ├── Hotel.ts
     └── index.ts
-    tsconfig.json
 
 ---
 
